@@ -20,8 +20,9 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
- # Remove older deployments
- cleanup:
+ 
+  # Remove older deployments
+  cleanup:
     runs-on: ubuntu-latest
     permissions: write-all
 
