@@ -24,6 +24,6 @@ header_pages:
   - index.md
   - about.md
 
-#title: An act of prokristination
-#description: Here, I will dump recipes - edible or otherwise. 
+title: An act of prokristination
+description: Here, I will dump recipes - edible or otherwise. 
 url: "https://onehitko.github.io/" 
