@@ -1,9 +1,9 @@
 main:
-  - name: Eat
-    link: /category/recipes/
-  - name: Speak
-    link: /category/language/
-  - name: See
-    link: /category/analysis/
-  - name: About
-    link: /about/
+  - title: Eat
+    url: /category/recipes/
+  - title: Speak
+    url: /category/language/
+  - title: See
+    url: /category/analysis/
+  - title: About
+    url: /about/
