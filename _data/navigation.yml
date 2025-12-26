@@ -1,10 +1,9 @@
-- name: Home
-  link: /
-- name: Eat
-  link: /category/recipes/
-- name: Speak
-  link: /category/language/
-- name: See
-  link: /category/analysis/
-- name: About
-  link: /about/
+main:
+  - name: Eat
+    link: /category/recipes/
+  - name: Speak
+    link: /category/language/
+  - name: See
+    link: /category/analysis/
+  - name: About
+    link: /about/

@@ -1,4 +1,4 @@
-theme: whiteglass
+remote_theme: yous/whiteglass
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
