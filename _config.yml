@@ -1,4 +1,6 @@
-theme: jekyll-whiteglass
+remote-theme: yous/whiteglass
+plugins:
+  - jekyll-remote-theme
 
 # other
 title: Welcome 
