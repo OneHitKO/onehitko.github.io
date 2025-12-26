@@ -20,3 +20,6 @@ jekyll-archives:
     category: /categories/:name/
     tag: /tags/:name/
 
+title: An act of prokristination
+description: Here, I will dump recipes - edible or otherwise. 
+url: "https://onehitko.github.io/" 
