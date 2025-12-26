@@ -3,11 +3,4 @@ layout: home
 title: welcome
 ---
 
-## recipes
-test test
-
-## language
-test test
-
-## data science
-test test test
+![everyone relates](https://imgs.xkcd.com/comics/motivation.png)
