@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About Me
+title: about me
 permalink: /about/
 ---
 
-Hey! I'm a 30-something year old comp bio postdoc who is interested in topics such as:
+Hey! I'm a comp bio postdoc who is interested in topics such as:
 * linguistics
 * food
 * geospatial data
