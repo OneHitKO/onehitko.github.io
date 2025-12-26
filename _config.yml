@@ -1,8 +1,22 @@
-remote-theme: yous/whiteglass
+remote_theme: yous/whiteglass
 plugins:
   - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+  - jekyll-paginate
+  - jekyll-sitemap
 
-# other
-title: Welcome 
-description: An eclectic collection of recipes - edible or otherwise.
+permalink: /:year/:month/:day/:title/
+paginate_path: /posts/:num/
+paginate: 5
+
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layout: category_archives
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
 
