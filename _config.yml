@@ -1,9 +1,9 @@
-remote_theme: yous/whiteglass
+#remote_theme: yous/whiteglass
+remote_theme: daviddarnes/alembic@main
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-archives
   - jekyll-paginate
   - jekyll-sitemap
 
@@ -11,14 +11,14 @@ permalink: /:year/:month/:day/:title/
 paginate_path: /posts/:num/
 paginate: 5
 
-jekyll-archives:
-  enabled:
-    - categories
-    - tags
-  layout: category_archives
-  permalinks:
-    category: /categories/:name/
-    tag: /tags/:name/
+#jekyll-archives:
+#  enabled:
+#    - categories
+#    - tags
+#  layout: category_archives
+#  permalinks:
+#    category: /categories/:name/
+#    tag: /tags/:name/
 
 header_pages:
   - index.md
